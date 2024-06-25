@@ -1,0 +1,9 @@
+name: "MyTestWorkflow#1"
+defaults:
+  run:
+    shell: "OJ"
+    echo:  This is my first echo
+
+    working-directory: 'directoryCore'
+    
+   
